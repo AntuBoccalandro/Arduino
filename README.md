@@ -4,13 +4,7 @@ Para seguir esta guía asegurate de seguir la cronología estructurada de la sig
 
 1. Carpeta main > 
     1 Introducción a la sección
+
     1.1 Contenido 1
+
     1.2 Contenido 2
-           .
-           .
-           .
-           .
-           .
-           .
-           .
-    1.20 Contenido 20 
