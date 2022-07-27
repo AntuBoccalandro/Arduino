@@ -1,2 +1,16 @@
 # Arduino
-Guía de la plataforma de Arduino en español. Aprende a crear tus propios proyectos.
+
+Para seguir esta guía asegurate de seguir la cronología estructurada de la siguiente forma:
+
+1. Carpeta main > 
+    1 Introducción a la sección
+    1.1 Contenido 1
+    1.2 Contenido 2
+           .
+           .
+           .
+           .
+           .
+           .
+           .
+    1.20 Contenido 20 
